@@ -1,0 +1,20 @@
+git config --global user.name "user GitHub"
+git config --global user.email "correo del user GitHub"
+
+
+git init (una vez por proyecto para monitorear carpeta) (primer comando)
+
+git checkout -b main
+
+-codificación de código-
+
+git add .
+
+git commit -m "Mensaje de actualización"
+
+git push origin main
+
+git status
+
+git remote add origin "link del repositorio de GitHub"
+
