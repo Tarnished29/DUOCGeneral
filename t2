@@ -1,0 +1,11 @@
+name = "Tosh"
+age = 18
+blind = False
+walk = True
+city = "PM"
+
+print(name)
+print(age)
+print(blind)
+print(walk)
+print(city)
