@@ -16,5 +16,5 @@ git push origin main
 
 git status
 
-git remote add origin "link del repositorio de GitHub"
+git remote add origin https://github.com/Toshy29/Duoc-14-04-25-Taller-1
 
