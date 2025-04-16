@@ -1,5 +1,5 @@
-git config --global user.name "user GitHub"
-git config --global user.email "correo del user GitHub"
+git config --global user.name "Toshy29"
+git config --global user.email "toshyexs29@gmail.com"
 
 
 git init (una vez por proyecto para monitorear carpeta) (primer comando)
